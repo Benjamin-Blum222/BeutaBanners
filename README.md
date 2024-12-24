@@ -132,7 +132,6 @@ function adjustBannerPositions() {
 ```
 ---
 ## How do I use it?
-
-Just copy and paste the code into the pages you want the banners to appear in, and customise to fit the theme!
+ - Just copy and paste the code into the pages you want the banners to appear in, and customise to fit the theme!
 ---
 ## PLEASE ATTRIBUTE!
