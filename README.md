@@ -18,7 +18,7 @@
         <span class="material-symbols-outlined">info</span>
         <h4>Want to visit the old version?</h4>
         <p>
-            Click <a href="https://web.archive.org/web/20241222235617/https://e4st.pages.dev/" target="_blank" rel="noopener noreferrer">here</a> to go there!
+            Click <a href="<!-- Put your destination link here-->">here</a> to go there!
         </p>
         <button onclick="dismissBanner('banner1')">Dismiss</button>
     </div>
@@ -26,7 +26,7 @@
         <span class="material-symbols-outlined">info</span>
         <h4>Wrong page?</h4>
         <p>
-            Click <a href="./docs.html">here</a> to see why.
+            Click <a href="<!-- Put your destination link here-->">here</a> to see why.
         </p>
         <button onclick="dismissBanner('banner2')">Dismiss</button>
     </div>
@@ -130,6 +130,7 @@ function adjustBannerPositions() {
 ```
 ---
 ## How do I use it?
+
 Just copy and paste the code into the pages you want the banners to appear in, and customise to fit the theme!
 ---
-## PLEASE GIVE ME ATTRIBUTIONS!
+## PLEASE ATTRIBUTE!
