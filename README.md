@@ -4,6 +4,7 @@
 ## How to implement-
  - HTML Implementation:
 ```HTML
+<!-- Preset HTML with required classes and attributions -->
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -18,7 +19,7 @@
         <span class="material-symbols-outlined">info</span>
         <h4>Want to visit the old version?</h4>
         <p>
-            Click <a href="<!-- Put your destination link here-->">here</a> to go there!
+            Click <a href="Put your destination link here">here</a> to go there!
         </p>
         <button onclick="dismissBanner('banner1')">Dismiss</button>
     </div>
@@ -26,7 +27,7 @@
         <span class="material-symbols-outlined">info</span>
         <h4>Wrong page?</h4>
         <p>
-            Click <a href="<!-- Put your destination link here-->">here</a> to see why.
+            Click <a href="Put your destination link here">here</a> to see why.
         </p>
         <button onclick="dismissBanner('banner2')">Dismiss</button>
     </div>
@@ -66,6 +67,7 @@
 ```
  - JavaScript Implementation:
 ```JavaScript
+// I honestly have no clue what I did here, edit if you know what you're doing!
 document.addEventListener('DOMContentLoaded', () => {
     const banners = document.querySelectorAll('.banner');
     let bannerBottomPosition = 10;
