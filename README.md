@@ -135,3 +135,6 @@ function adjustBannerPositions() {
  - Just copy and paste the code into the pages you want the banners to appear in, and customise to fit the theme!
 ---
 ## PLEASE ATTRIBUTE!
+---
+## How Do I change the Icon?
+ - Go to https://fonts.google.com/icons and find the icon you like, then grab the code and insert it.
